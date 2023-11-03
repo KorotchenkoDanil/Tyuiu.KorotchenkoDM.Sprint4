@@ -16,12 +16,12 @@ namespace Tyuiu.KorotchenkoDM.Sprint4.Task3.V8
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы (статический ввод)                              *");
             Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #28                                                             *");
+            Console.WriteLine("* Вариант #8                                                              *");
             Console.WriteLine("* Выполнил: Коротченко Данил Михайлович | ИСТНб-23-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан двумерный целочисленный массив 5 на 5 элементов, заполненный        *");
-            Console.WriteLine("* статическими значениями в диапазоне от 4 до 9. Найдите минимальный      *");
+            Console.WriteLine("* статическими значениями в диапазоне от 2 до 8. Найдите минимальный      *");
             Console.WriteLine("* элемент в четвертом столбце массива                                     *");
             Console.WriteLine("* 4, 8, 3, 4, 8,                                                          *");
             Console.WriteLine("* 5, 3, 5, 7, 8,                                                          *");

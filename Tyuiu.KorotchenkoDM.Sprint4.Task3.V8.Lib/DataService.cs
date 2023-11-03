@@ -7,7 +7,7 @@ using tyuiu.cources.programming.interfaces.Sprint4;
 
 namespace Tyuiu.KorotchenkoDM.Sprint4.Task3.V8.Lib
 {
-    public class DataService : ISprint4Task3V28
+    public class DataService : ISprint4Task3V8
     {
         public string Calculate(int[] array)
         {
